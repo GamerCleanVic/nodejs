@@ -1,3 +1,6 @@
-let nome: string = 'Jonas';
-let idade: number = 91;
-console.log(`Meu nome é ${nome} e eu tenho ${idade} anos.`);
+let n1: number = 10;
+let n2: number = 2;
+
+console.log(`SOMA: `);
+console.log(`SUBTRAÇÃO: `);
+console.log(`MULTIPLICAÇÃO: `);

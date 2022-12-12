@@ -1,4 +1,6 @@
 "use strict";
-let nome = 'Jonas';
-let idade = 91;
-console.log(`Meu nome é ${nome} e eu tenho ${idade} anos.`);
+let n1 = 10;
+let n2 = 2;
+console.log(`SOMA: `);
+console.log(`SUBTRAÇÃO: `);
+console.log(`MULTIPLICAÇÃO: `);
